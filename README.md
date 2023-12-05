@@ -7,3 +7,6 @@ after more testing:
     background-blend-mode: overlay;
     background-color: rgb(91 88 88/100%);
     filter: blur(1.25px);
+
+
+  Inside of the div: div.CodeMirror-scroll
