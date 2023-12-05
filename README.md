@@ -1,5 +1,5 @@
 sup nerds
-Note: rgb(91,88,88, 84%) is good
+(click for more info)
 
 after more testing:
   background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2016/01/17/877900/0d322ad….jpg);
