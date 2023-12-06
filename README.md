@@ -9,5 +9,6 @@ after more testing:
     background-color: rgb(91 88 88/100%);
     filter: blur(1.25px);
 At maximum 6 px blur.
+background-attachment: fixed;
 
   Inside of the div: div.CodeMirror-scroll
