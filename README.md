@@ -1,5 +1,6 @@
 sup nerds
 (click for more info)
+CHECK TO MAKE YOUR OWN: https://github.com/phcode-dev/extension-template
 
 after more testing:
   background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2016/01/17/877900/0d322ad….jpg);
