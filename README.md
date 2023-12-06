@@ -12,3 +12,7 @@ At maximum 6 px blur.
 background-attachment: fixed;
 
   Inside of the div: div.CodeMirror-scroll
+
+  filter: hue-rotate(45deg);
+  (128deg)= early morning
+  pretty cool when inside of .view-pane
