@@ -16,3 +16,10 @@ background-attachment: fixed;
   filter: hue-rotate(45deg);
   (128deg)= early morning
   pretty cool when inside of .view-pane
+
+  element.style{
+  position: relative;
+  top: 0px;
+  backdrop-filter: blur(5px);e
+  }
+  blur on background, kek.
