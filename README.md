@@ -23,3 +23,7 @@ background-attachment: fixed;
   backdrop-filter: blur(5px);e
   }
   blur on background, kek.
+
+
+  Had more but it didn't save. :(
+  (And I'm too lazy to redo it)
